@@ -1,3 +1,5 @@
+![screenshot of app](https://i.imgur.com/9WtNtbX.png)
+
 # Bluebird
 
 This is a JavaScript app that displays a tweet feed, inspired by the popular social media platform Twitter. Users can like, retweet, and reply to tweets. The app is built using vanilla JavaScript and uses hardcoded data from a data file.
